@@ -714,14 +714,8 @@ p,h1,h2,h3,h4,h5,h6{
         
     }
     
-    .mobile .r3{
-       text-align: center;
-        
-    }
-    
-    .mobile .r2{
-       text-align: center;
-        
+    .rank{
+        text-align: center;
     }
     
     .mobile .rank div{
